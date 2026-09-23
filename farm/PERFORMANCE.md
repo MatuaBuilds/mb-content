@@ -43,4 +43,4 @@ Add a row for each published carousel: date · IG url · Fxx · Vx · Kxx · con
 | 1 Oct 6pm | grief-f01-07 let me know if you need anything | F01/V1 | — |
 | on hold | grief-f01-05 your body remembers the date | F01/V1 | — |
 
-The 8 displaced evening posts moved to 1–8 Dec 6pm (the 29 Sep post stayed). All new posts carry per-slide alt text.
+The 7 displaced evening posts moved to 1–5, 7 and 8 Dec at 6pm. The 29 Sep post stayed, so 6 Dec is open. All new posts carry per-slide alt text.
