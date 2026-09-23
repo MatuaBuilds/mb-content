@@ -13,3 +13,7 @@ Selection rule: visual framework / where do I start → START · grief-specific 
 Caption order: hook line → (optional comment question) → "Save this carousel for a day you need it." → CTA line → "Let love guide us. ❤️" → hashtags.
 
 Needs: the DM automation must trigger on all posts for each keyword.
+
+## Rollout status (2026-09-24)
+- Done: all queued carousels from 24 Sep 6pm to 10 Oct 10am (32 posts) use the comment-trigger CTAs.
+- Paused: 110 posts from 10 Oct 6pm to 8 Dec still have old CTAs ("link in bio" or none). Finish before 10 Oct.
