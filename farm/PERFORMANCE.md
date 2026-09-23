@@ -29,3 +29,18 @@ Source: Metricool, Instagram @matua_bill, pulled 2026-09-24. Views = IG views (o
 
 ## Post log
 Add a row for each published carousel: date · IG url · Fxx · Vx · Kxx · container · views · reach · shares · saves · comments · follows · call.
+
+## Scheduled: Grief container, evening slot (set 2026-09-24)
+| Date (NZ) | Carousel | Fxx/Vx | Kxx |
+|---|---|---|---|
+| 24 Sep 6pm | campaign-4steps-c06 grief through the four steps | F05/V3 (first test of V3) | K01, K11 |
+| 25 Sep 6pm | grief-f01-01 it comes in waves | F01/V1 | K01 |
+| 26 Sep 5pm | grief-f01-02 make the visit | F01/V1 | K02 |
+| 27 Sep 6pm | grief-f01-03 we worked through it | F01/V1 | K03 |
+| 28 Sep 6pm | grief-f01-04 the childhood you never got | F01/V1 | — |
+| 29 Sep 6pm | (kept: wairua post, move was declined) | F02/V1 | — |
+| 30 Sep 6pm | grief-f01-06 grieve and still be angry | F01/V1 | K07 |
+| 1 Oct 6pm | grief-f01-07 let me know if you need anything | F01/V1 | — |
+| on hold | grief-f01-05 your body remembers the date | F01/V1 | — |
+
+The 8 displaced evening posts moved to 1–8 Dec 6pm (the 29 Sep post stayed). All new posts carry per-slide alt text.
